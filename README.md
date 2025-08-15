@@ -1,10 +1,10 @@
-# 🕶️ Project: ASHFALL‑00X
+# Project: ASHFALL‑00X
 
 ### *"The failure was expected. The system was ready."*
 
 ---
 
-## ⚠️ STATUS: CLASSIFIED / NOT YET ACTIVATED
+## STATUS: CLASSIFIED / NOT YET ACTIVATED
 
 > You’ve found something that’s not supposed to be live.  
 > The system hasn’t booted.  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Codename: ASHFALL‑00X  
+## Codename: ASHFALL‑00X  
 > *Resilient Embedded Mesh Protocol — based on the unreleased OBLIVION‑CORE substrate.*
 
 This isn’t a library.  
@@ -22,7 +22,7 @@ This is the first *known attempt* to create a **self-recovering microcontroller 
 
 ---
 
-## 🔍 The Problem
+## The Problem
 
 All embedded systems are built with a lie:  
 **That nothing will fail.**
@@ -32,7 +32,7 @@ When it dies, so does everything it controlled.
 
 ---
 
-## 🔒 The Intent
+## The Intent
 
 **ASHFALL‑00X** was conceived to solve one thing:
 
@@ -40,18 +40,18 @@ When it dies, so does everything it controlled.
 
 We’re engineering a *low-power neural mesh* of microcontrollers that:
 
-- 🔁 Discover each other on boot
-- 🧠 Negotiate real-time roles
-- ⚡ Share and reassign computational tasks
-- 🪫 Detect dead nodes and reroute logic
-- 💾 Store OTA payloads and state backups
+- Discover each other on boot
+- Negotiate real-time roles
+- Share and reassign computational tasks
+- Detect dead nodes and reroute logic
+- Store OTA payloads and state backups
 
 All **without an RTOS.**  
 All **without mercy for failure.**
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 > There is no hardware.  
 > There is no firmware.  
@@ -62,7 +62,7 @@ We don't know what will happen when it does.
 
 ---
 
-## 🧬 Internal Codex (To Be Unsealed)
+## Internal Codex (To Be Unsealed)
 
 ```bash
 ashfall-00x/
