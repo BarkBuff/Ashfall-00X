@@ -1,4 +1,4 @@
-# Project: ASHFALL‑00X
+# Project: Continuum Arc
 
 ### *"The failure was expected. The system was ready."*
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Codename: ASHFALL‑00X  
+## Codename: Continuum Arc  
 > *Resilient Embedded Mesh Protocol — based on the unreleased OBLIVION‑CORE substrate.*
 
 This isn’t a library.  
